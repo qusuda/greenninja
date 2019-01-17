@@ -3,7 +3,7 @@
     "name": "room0",
     "id": "25785010-282f-46e8-827d-40a2521eb726",
     "creationCodeFile": "",
-    "inheritCode": false,
+    "inheritCode": false, 
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
